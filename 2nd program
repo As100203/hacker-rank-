@@ -1,3 +1,10 @@
 always use space for scanf
 never use gets de to some data buffer related problem
 proper syntax scanf(" %[^\n]",string);
+
+
+now i learnt about the round function ... 
+e.g round(a)
+round is pre defined within math.h
+we canconvert the return type of round 
+(int)round(a);
