@@ -1,0 +1,3 @@
+always use space for scanf
+never use gets de to some data buffer related problem
+proper syntax scanf(" %[^\n]",string);
